@@ -10,6 +10,8 @@ Coding and designing our own datavisualisation from given data.
 In this assignment I’ve made my own datavisualisation. The data used in this visualisation is about the total numbers of speakers each language has.
 
 ## Data
+A bit of the data that was given:
+
 language | speakers
 --- | ---
 Mandarin Chinese | 1090000000
