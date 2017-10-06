@@ -1,0 +1,39 @@
+body {
+	background: #1357DA;
+}
+
+svg {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.stop-left {
+                stop-color: #FDB936;
+            }
+
+            .stop-right {
+                stop-color: #FF7500;
+            }
+
+.bar {
+	transition: all 1s;
+}
+
+.axis text {
+	font: 14px sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	fill: white;
+}
+
+.y path {
+  display: none;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
