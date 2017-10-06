@@ -10,14 +10,11 @@ Coding and designing our own datavisualisation from given data.
 In this assignment I’ve made my own datavisualisation. The data used in this visualisation is about the total numbers of speakers each language has.
 
 ## Data
-| language | speakers |
-| Mandarin Chinese | 1090000000 |
-| English | 544000000 |
-| Hindustani | 544000000 |
-| Spanish | 527000000 |
-| Arabic | 422000000 |
-| Malay | 281000000 |
-| Russian | 267000000 |
+language | speakers
+--- | ---
+Mandarin Chinese | 1090000000
+English | 544000000
+Hindustani | 544000000
 
 ## Features
 1. [d3-Dsv](https://github.com/d3/d3-dsv) - Parse tab-separated values
